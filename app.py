@@ -50,9 +50,6 @@ def after():
         img = cv2.imread('static/file.jpg', 0)
 
 
-
-
-
     
     img = cv2.resize(img,(48,48))
     img = img/255.0
@@ -70,26 +67,8 @@ def after():
 
     final_prediction = label_map[prediction]
 
-
-
-
     
     return render_template("after.html", data=final_prediction)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 if __name__ == "__main__":
