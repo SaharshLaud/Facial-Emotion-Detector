@@ -13,13 +13,9 @@ blinker==1.4
 brotlipy==0.7.0
 cachetools==5.1.0
 certifi==2020.6.20
-cffi @ file:///C:/ci/cffi_1605538112425/work
-chardet @ file:///C:/ci/chardet_1605303225733/work
 click==8.0.4
 colorama==0.4.4
 conda==4.9.2
-conda-package-handling @ file:///C:/ci/conda-package-handling_1603003327818/work
-cryptography @ file:///C:/ci/cryptography_1605526388508/work
 debugpy==1.6.0
 decorator==5.1.1
 defusedxml==0.7.1
@@ -93,7 +89,6 @@ Pympler==1.0.1
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
 pyparsing==3.0.9
 pyrsistent==0.18.1
-PySocks @ file:///C:/ci/pysocks_1605287845585/work
 python-dateutil==2.8.2
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
@@ -107,7 +102,6 @@ rsa==4.8
 ruamel-yaml==0.15.87
 semver==2.13.0
 Send2Trash==1.8.0
-six @ file:///C:/ci/six_1605187374963/work
 smmap==5.0.0
 soupsieve==2.3.2.post1
 stack-data==0.2.0
@@ -124,7 +118,6 @@ tinycss2==1.1.1
 toml==0.10.2
 toolz==0.11.2
 tornado==6.1
-tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
 traitlets==5.2.1.post0
 typing-extensions==4.2.0
 tzdata==2022.1
@@ -136,7 +129,6 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.1.2
 widgetsnbextension==3.6.0
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
 wincertstore==0.2
 wrapt==1.14.1
 zipp==3.8.0
